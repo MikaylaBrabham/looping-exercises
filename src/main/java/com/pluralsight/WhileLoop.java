@@ -1,5 +1,15 @@
 package com.pluralsight;
 
 public class WhileLoop {
-    //add while loop
+
+    public static void main(String[] args) {
+
+        //add while loop
+        int i = 1;
+
+        while (i <= 5) {
+            System.out.println("I <3 Java!");
+            i++;
+        }
+    }
 }
