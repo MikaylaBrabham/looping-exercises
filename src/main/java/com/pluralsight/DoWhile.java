@@ -13,7 +13,7 @@ public class DoWhile {
             System.out.println("I <3 Java!");
             i++;
         }
-        while (i <= 5) {
+        while (i <= 5); {
 
         }
     }
